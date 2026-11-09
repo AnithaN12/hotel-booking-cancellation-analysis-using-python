@@ -49,7 +49,3 @@ The project compares City and Resort Hotels and provides actionable strategies t
 #  Expected Outcome
 
 This analysis helps hospitality businesses understand cancellation behaviour, improve demand forecasting, optimize room inventory, and make data-driven revenue management decisions.
-
-# Author
-
-Anitha N
